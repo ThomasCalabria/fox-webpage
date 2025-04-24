@@ -1,0 +1,13 @@
+My experience using bootstrap for this assignment, I would say, would be quite
+positive. I would see why people would decide to use Bootstrap instead of just
+manually writing code like CSS into their HTML projects. There are a couple of
+pros and cons that I feel are relevant while using Bootstrap in this assignment.
+On one hand, Bootstrap makes everything much easier compared to manually
+writing CSS while coding. This makes things more efficient and faster to make 
+parts of your code look a certain way, and I like it when things are simple and 
+concise, which is the reason why I now do not find Coding that detestable overall.
+However, Bootstrap also seems to have its downsides. It is evident that it does not
+allow you to precisely customize it easier as you could if you just write your own
+CSS from scratch manually. Within my assignment specifically, I found it easier to add basic items or elements such as a nav bar or even a "learn more" button, and in this assignment in particular, these elements are not style specific, meaning that I could just easily add them with Bootstrap and not have to worry about anything else at all. The measurements, the color, the shade or transparency were all irrelevant. This is where Bootstrap comes in handy, since all of their elements are pre made, we developers do not have to worry about the specifics for every individual item. I would also say that one is not necessarily better than the other, especially given the fact that developers in the real world would most likely have to use basic customizable CSS in order to meet the customer's demands and requirements. 
+
+Overall, I see Bootstrap as a sort of trade off, replacing convenience with complexity, and I would prefer these pre made CSS elements over having to manually create CSS any day.
